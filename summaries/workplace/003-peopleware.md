@@ -37,8 +37,10 @@ Summary
 =======
 
 
-Managing the Human Resource
+Part I - Managing the Human Resource
 ---------------------------
+Most managers are prone to one particular failing: a tendency to manage people as though they were modular components. This tendency comes from previously working as technicians or developers. That often involved organizing resources into modular pieces. After years of reliance on these modular methods, small wonder that managers try to manage human resources the same way. Unfortunately, it doesn't work very well. Part I begins to investigate a very different way of
+thinking about and managing people. That way involves specific accommodation to the very nonmodular character of the human resource.
 
 ### 1. Somewhere Today, a Project Is Failing
 
@@ -51,26 +53,23 @@ With over 500 project surveys (authors call them _project autopsies_) some trend
 
 There was never a technological reason for these failures - it always boiled down to sociological problems. Most people in the industry like to think they are in high-tech business. The truth is only the people who brought the breakthroughs are in the _high-tech_ business. The rest of us are appliers of their work. We're in the _people business_.
 
+> Most managers think technology is their principal concern. They spend their time puzzling over the most convoluted and most interesting puzzles that their people will have to solve, almost as though they themselves were going to do the work rather than manage it. They are forever on the lookout for a technical whiz-bang that promises to automate away part of the work. The most strongly people-oriented aspects of their responsibility are often given the lowest priority.
+
+The main reason we tend to focus on the technical rather than the human side of the work is not because it's more crucial, but because it's easier to do. Thinking about product features is positively trivial compared to figuring out why a developer is in a blue funk or why another one is dissatisfied with the company after only a few months. Human interactions are complicated and never very crisp and clean in their effects, but they matter more than any other aspect of the work. If you find yourself concentrating on the technology rather than the sociology, you're like the vaudeville character who loses his keys on a dark street and looks for them on the adjacent street because, as he explains, "The light is better there."
+
 ### 2. Make a Cheeseburger, sell a Cheeseburger
 
 > Speaking to a group of software managers, we introduced a strategy for what we think of as iterative design. The idea is that some designs are intrinsically defect-prone; they ought to be rejected, not repaired. Such dead ends should be expected in the design activity. The lost effort of the dead end is a small price to pay for a clean, fresh start. To our surprise, many managers felt this would pose an impossible political problem for their own bosses: “How can we throw away a product that our company has paid to produce?” They seemed to believe that they’d be better off salvaging the defective version even though it might cost more in the long run.
 
-It should be acceptable, even encouraged to make mistakes
+It should be acceptable, even encouraged to make mistakes.
 
-> Fostering an atmosphere that doesn’t allow for error simply makes people defensive. They don’t try things that may turn out badly. You encourage this defensiveness when you try to systematize the process, when you impose rigid methodologies so that staff members are not allowed to make any of the key strategic decisions lest they make them incorrectly.
+> Fostering an atmosphere that doesn't allow for error simply makes people defensive. They don't try things that may turn out badly. The average level of technology may be modestly improved by any steps you take to inhibit error. The team sociology, however, can suffer grievously. The opposite approach would be to encourage people to make some errors. You do this by asking your folks on occasion what dead-end roads they've been down, and by making sure they understand that "none" is not the best answer. When people blow it, they should be congratulated—that's part of what they're being paid for.
 
 In traditional management, it's difficult to recognize more intangible contributions. People's worth tends to be evaluated based on the _quantity_ of work they do, like the amount of lines of code they produce.
 
-> The catalyst is important because the project is always in a state of flux. Someone who can help a project to jell is worth two people who just do work.
+> I was teaching an in-house design course some years ago, when one of the upper managers buttonholed me to request that I assess some of the people in the course (his project staff). He was particularly curious about one woman. It was obvious he had his doubts about her: "I don't quite see what she adds to a project, she's not a great developer or tester or much of anything." With a little investigation, I turned up this intriguing fact: During her twelve years at the company, the woman in question had never worked on a project that had been anything other than a huge success. It wasn't obvious what she was adding, but projects always succeeded when she was around. After watching her in class for a week and talking to some of her co-workers, I came to the conclusion that she was a superb catalyst. Teams naturally jelled better when she was there. She helped people communicate with each other and get along. Projects were more fun when she was part of them. When I tried to explain this idea to the manager, I struck out. He just didn't recognize the role of catalyst as essential to a project. The catalyst is important because the project is always in a state of flux. Someone who can help a project to jell is worth two people who just do work.
 
-It might be difficult for a "regular" manager to recognize catalyst's contribution
-
-> I was teaching an in-house design course some years ago, when one of the upper managers buttonholed me to request that I assess some of the people in the course (his project staff). He was particularly curious about one woman. It was obvious he had his doubts about her: “I don’t quite see what she adds to a project; she’s not a great developer or tester or much of anything.” With a little investigation, I turned up this intriguing fact: During her 12 years at the company, the woman in question had never worked on a project that had been anything other than a huge success. It wasn’t
-obvious what she was adding, but projects always succeeded when she was around. After watching her in class for a week and talking to some of her co-workers, I came to the conclusion that she was a superb catalyst. Teams naturally jelled better when she was there. She helped people communicate with each other and get along. Projects were more fun when she was part of them. When I tried to explain this idea to the manager, I struck out. He just didn’t recognize the role of catalyst as essential to a project.
-
-The more intensely deadlined the project is, the more important is to have frequent revisits of the project's goal and purpose and brainstorming sessions about the project's parts.
-
->The project that has to be done by an impossible fixed date is the very one that can’t afford not to have frequent brainstorms and even a project dinner or some such affair to help the individual participants knit into an effective whole.
+It might be difficult for a "regular" manager to recognize catalyst's contribution.
 
 ### 3. Vienna Waits for You
 
@@ -96,6 +95,8 @@ Workaholics might put in extra hours for long time before they realize they sacr
 
 > If you exploit them to the hilt in typical Spanish Theory fashion, you’ll eventually lose them. No matter how desperately you need them to put in all those hours, you can’t let them do so at the expense of their personal lives. The loss of a good person isn’t worth it.
 
+> People under time pressure don't work better; they Just work faster.
+
 ### 4. Quality - If Time Permits
 
 Psychologists have identified a small number of basic instincts dominating every person (survival, self-esteem, reproduction, territory etc). Any time strong emotions are involved, it's most likely that one of these instincts was threatened. And in the workplace, most often it's the self-esteem.
@@ -106,15 +107,14 @@ We all tie our self-esteem to the quality of our work - nobody takes pride in pr
 
 > Workers kept under extreme time pressure will begin to sacrifice quality. They will push problems under the rug to be dealt with later or foisted off onto the product’s end user. They will deliver products that are unstable and not really complete. They will hate what they’re doing, but what other choice do they have?
 
-Decision to pressure people into delivering a product that doesn't measure up to their own quality standards is almost always a mistake. In the words of Tajima and Matsubara (1984. "Inside the Japanese Software Industry")
+The point here is that the client's are not really interested in high quality while developers are. This is a natural conflict. Setting the quality bar by looking at the market is a good strategy for short-term profitability but it will cost a lot in terms of developers productivity and satisfaction.
 
+> In the long run, market-based quality costs more. The lesson here is: quality, far beyond that required by the end user, is a means to higher productivity.
 > The trade-off between price and quality does not exist in Japan. Rather, the idea that high quality brings on cost reduction is widely accepted.
-
 
 ### 5. Parkinson's Law Revisited
 
 > Writing in 1954, the British author C. Northcote Parkinson introduced the notion that work expands to fill the time allocated for it, now known as Parkinson’s Law.
-
 
 Unlike Newton's laws which are physical laws you cannot break, Parkinson's law got accepted not because it was true, but because it was funny. It mostly applies to bureaucracy, as a workplace where there's little satisfaction.
 
@@ -146,11 +146,9 @@ The best managers understand it's not their job to make people work, but to make
 > In my early years as a developer, I was privileged to work on a project managed by Sharon Weinberg, later to become president of the Codd and Date Consulting Group. She was a walking example of much of what I now think of as enlightened management. One snowy day, I dragged myself out of a sickbed to pull together our shaky system for a user demo. Sharon came in and found me propped up at the console. She disappeared and came back a few minutes later with a container of soup. After she’d poured it into me and buoyed up my spirits, I asked her how she found time for such things with all the management work she had to do. She gave me her patented grin and said, **“Tom, this is management.”**
 
 
-The Office Environment
+Part II - The Office Environment
 ----------------------
-> There are a million ways to lose a workday, but not even a single way to get one back.
-
-Even though our team doesn't work in a traditional office, we're still vulnerable to distractions and other productivity killers
+In order to make it possible for people to work, you have to work on those factors that sometimes make it impossible. The causes of lost hours are mostly due to the environment that the organization has provided to help you work. Part II looks into some of the causes of lost time and propose measures that you can take to create a healthy, work-conducive environment.
 
 ### 7. Furniture Police
 
@@ -249,10 +247,10 @@ It emphasizes the need for workers to voice their concerns. Most people won't sa
 This chapter deals with envisioning an ideal place to work. Even for people working in a cramped, noisy places currently, they might be in a position to create a better workplace someday. It discusses the theories of Christopher Alexander, especially his notion of _Organic Order_ where the building is created piecemeal, locally, paying attention to the needs of people who'll be inhabiting the space.
 
 
-The Right People
+Part III - The Right People
 ----------------
 
-Modern management science is more concerned with the boss's role of a principal strategist and how the work is done. It's much more important _who_ is doing the work. Authors give us a formula for success as such:
+Modern management science is more concerned with the boss's role of a principal strategist and how the work is done. Management is often thought as playing out one of those battle simulation board games. There are no personalities or individual talents to be reckoned with in such a game; you succeed or fail based on your decisions of when and where to deploy your faceless resources. On the contrary, it's much more important _who_ is doing the work. Authors give us a formula for success as such:
 
   * Get the right people
   * Make them happy so they don't want to leave
@@ -325,7 +323,9 @@ To lead, it's more important to be qualified and fearless, the positional author
 
 It's surprising how much hiring of developers happens without ever seeing samples of the work. For programmers who assemble a portfolio showing off samples of their work, such as code examples, methods, routines, flow charts, and such are definitely going to stand out among the other candidates.
 
-To test candidate's communication and people skills, the authors suggest holding an audition - asking the candidate to prepare 10 or 15 minute presentation on an aspect of  past work, where the candidate chooses the theme. It should be held in front of the future co-workers and then have a discussion after the candidate leaves. There's no more accurate way of establishing will a person fit the team than having the team pitching in their opinion.
+> The business we're in is more sociological than technological, more dependent on workers' abilities to communicate with each other than their abilities to communicate with machines.
+
+To test candidate's communication and people skills, the authors suggest holding an audition - asking the candidate to prepare 10 or 15 minute presentation on an aspect of past work, where the candidate chooses the theme. It should be held in front of the future co-workers and then have a discussion after the candidate leaves. There's no more accurate way of establishing will a person fit the team than having the team pitching in their opinion.
 
 > My first experience with auditions was in hiring people to be consultants and instructors. My motivation in torturing these prospective hires was simple enough: I wanted to get a sense of whether they were natural explainers of matters simple or complex, or people who could be taught to explain such matters, or those who could never explain anything to anyone. I also wanted some second opinions on the matter, so I had those of my people who were in the office at the time of the audition sit in on the presentation. Over five years, we conducted nearly two hundred auditions. It soon became clear that the audition process served to accelerate the socialization process between a new hire and the existing staff members. A successful audition was a kind of certification as a peer. The reverse seemed to hold true as well. Failed auditions were a morale booster for the staff. They were continuing proof that being hired for the group was more than just the dumb luck of when résumés happened to hit my desk.
 
@@ -369,7 +369,7 @@ High turnover is more damaging than obvious cost of constant need to hire people
 
 High turnover turns into a wicked cycle - management is reluctant to invest in educating and empowering their employees, since they will leave soon, and in turn, the employees don't feel valued enough to stay.
 
-Why the people leave?
+Why people leave?
 
   * A just-passing-through mentality: Co-workers engender no feelings of long-term involvement in the job.
   * A feeling of disposability: Management can only think of its workers as interchangeable parts (since turnover is so high, nobody is indispensable).
@@ -392,7 +392,7 @@ What about people? While most managers consider salaries and other cost as an ex
 > Companies that manage their investment sensibly will prosper in the long run. Companies of knowledge workers have to realize that it is their investment in human capital that matters most. The good ones already do.
 
 
-Growing Productive Teams
+Part IV - Growing Productive Teams
 ------------------------
 
 Majority of our most pleasant work memories are from _challenges_ we faced and overcame, however, if you think more about it, it's usually the team interaction during the challenge we cherish the most.
@@ -405,18 +405,6 @@ Not every group of people working together can be called a team. What they lack 
 
 > A jelled team is a group of people so strongly knit that the whole is greater than the sum of the parts. The production of such a team is greater than that of the same people working in unjelled form. Just as important, the enjoyment that people derive from their work is greater than what you’d expect given the nature of the work itself. In some cases, jelled teams working on assignments that others would declare downright dull have a simply marvelous time.<br><br> Once a team begins to jell, the probability of success goes up dramatically. The team can become almost unstoppable, a juggernaut for success. Managing these juggernaut teams is a real pleasure. You spend most of your time just getting obstacles out of their way, clearing the path so that bystanders don’t get trampled underfoot: “Here they come, folks. Stand back and hold onto your hats.” They don’t need to be managed in the traditional sense, and they certainly don’t need to be motivated. They’ve got momentum.
 
-The most important aspect of teams that jell is sharing a common goal. However arbitrary, the goal becomes of the utmost importance to the team and they will pursue it with enormous energy.
-
-> “Today the Sysboombah Project, tomorrow the world!” Throughout the upper ranks of the organization, there is marvelous ingenuity at work to be sure that each manager has a strong personal incentive to accept the corporate goals. Only at the bottom, where the real work is performed, does this ingenuity fail. There we count on “professionalism” and nothing else to assure that people are all pulling in the same direction. Lots of luck.
-
-Most managers naively expect their employees to accept the company goal as their own, and even feel betrayed when their workers aren't as enthusiastic as they are.
-
-> I once ran a telecommunications project for a large consumer finance company. This organization was in the business of lending money to poor people at outlandishly high rates of interest, a business that back then was illegal in 23 states. Increasing the company’s already huge profit was not something the average worker could easily identify with, but management seemed to think it was. A delegation came to talk to me late one Friday afternoon. The company’s chances for the best second quarter in history were in our hands, they said. They asked me to share this fact with the rest of the team, “to focus their efforts.” I had never worked on a more focused team in my life, but I dutifully passed the word on the next morning. (They were so fired up that the whole team was in, even though it was a Saturday.) The energy went out of the team like wind out of a sail. The chief programmer summed it all up: “Who gives a rat’s ass for their second quarter?” Half an hour later, they’d all gone home.
-
-However arbitrary the goal of building the system was, the team accepted it as their own and were enthusiastic about it. Refocusing their attention on the company interest just made the project seem trivial and meaningless.
-
-Goals of the corporation will always seem arbitrary to people, but that's fine - most sport goals are totally arbitrary but people get completely involved in the sport's team goals. Important insight is that team don't achieve goals - individuals achieve goals. Most of the work on any project is done by individuals working alone. The purpose of the team isn't goal achievement, it's _goal alignment. When the team is fulfilling it's purpose, team members are more effective because they're more directed.
-
 The signs of the jelled teams:
 
   * **Low turnover** - people won't leave until the work is done. Things that mattered before jell (position, money, status) matter little after jell
@@ -427,8 +415,9 @@ The signs of the jelled teams:
 
 Many an insecure manager might feel this description of a team is more suitable to a _clique_.
 
-> Managers are often not true members of their teams, so the loyalties that exclude them are stronger than the ones that bind them into the group. The loyalties within the group are stronger than those tying the group to the company. Then there is the awful thought that a tightly knit team may leave en masse and take all of its energy and enthusiasm over to the competition. For all these reasons, the insecure manager is threatened by cliques. He or she would feel better working with a staff of uniform plastic people, identical, interchangeable, and unbonded.<br><br>The jelled work group may be cocky and self-sufficient, irritating and exclusive, but it does more to serve the manager’s real goals than any assemblage of interchangeable parts could ever do.
+The most important aspect of teams that jell is sharing a common goal. However arbitrary, the goal becomes of the utmost importance to the team and they will pursue it with enormous energy.
 
+> The purpose of a team is not goal attainment but goal alignment.
 
 ### 22. The Black Team
 
@@ -504,10 +493,10 @@ The competition among team members is not likely to produce a group of people th
 > When you observe a well-knit team in action, you’ll see a basic hygienic act of peer-coaching that is going on all the time. Team members sit down in pairs to transfer knowledge. When this happens, there is always one learner and one teacher.<br><br>
 > The act of coaching simply cannot take place if people don’t feel safe. In a suitably competitive atmosphere, you would be crazy to let anyone see you sitting down to be coached; it would be a clear indication that you knew less than your coach about some subject matter. You would be similarly crazy to coach someone else, as that person may eventually use your assistance to pass you by.
 
-### 26. A Spaggetti Dinner
+### 26. A Spaghetti Dinner
 The story of spaghetti dinner tells about dinner meeting at the manager's house where the team goes to the store, buys the necessary groceries and makes the dinner together, without a specific guidance by the manager. The point is to make the team succeed together.
 
-> The common thread is that good managers provide frequent easy opportunities for the team to succeed together. The opportunities may be tiny pilot subprojects, or demonstrations, or simulations, anything that gets the team quickly into the habit of succeeding together. The best success is the one in which there is no evident management, in which the team works as a genial aggregation of peers. The best boss is the one who can manage this over and over again without the team members knowing they’ve been “managed.” These bosses are viewed by their peers as just lucky. Everything seems to break right for them. They get a fired-up team of people, the project comes together quickly, and everyone stays enthusiastic through the end. These managers never break into a sweat. It looks so easy that no one can believe they are managing at all.
+> The common thread is that **good managers provide frequent easy opportunities for the team to succeed together**. The opportunities may be tiny pilot subprojects, or demonstrations, or simulations, anything that gets the team quickly into the habit of succeeding together. The best success is the one in which there is no evident management, in which the team works as a genial aggregation of peers. The best boss is the one who can manage this over and over again without the team members knowing they’ve been “managed.” These bosses are viewed by their peers as just lucky. Everything seems to break right for them. They get a fired-up team of people, the project comes together quickly, and everyone stays enthusiastic through the end. These managers never break into a sweat. It looks so easy that no one can believe they are managing at all.
 
 ### 27. Open Kimono
 
@@ -540,7 +529,7 @@ It is the satisfying "thunk" of all parts falling into place. It's the successfu
 
 
 
-Fertile Soil
+Part V - Fertile Soil
 ------------
 
 ### 29. The Self-Healing System
@@ -664,7 +653,7 @@ The need for a community is build in deeply in humans, the best managers know th
 > We are not going to presume to set forth a formula for such a complicated matter. There is no formula. Like any work of art, your success at fostering community is going to require substantial talent, courage, and creativity. It will also need an enormous investment of time. The work will not be completed by you alone; at best, you will be the catalyst. The form of your creation will not be very much like anyone else’s.<br><br> So, in place of a formula, we offer instead an example, a single example. The example comes from one of our client companies, a company where one enterprising manager stepped in and changed the culture forever. This catalytic genius persuaded the organization to build itself around a school. The school is made up of a day-care and preschool center, plus classes for kindergarteners through fifth graders. The school is for the children of employees.<br><br> No doubt you can see the dollars-and-cents rationale for this, the unique advantage the company gained for hiring programmers and engineers in a tight market. But you’d have to walk through the company to see what the school does for community. You’d have to be there for that moment every afternoon when the teachers lead the entire student body through the whole facility. They make up a noisy, funny, triumphantly silly parade of little kids whooping it up and saying hello to everyone. You can hear them coming a mile away. All work pauses for the procession. There are lots of hugs. When it’s over, everyone feels great.<br><br> Imagine having been the person responsible for that. Imagine having that to look back at from the age of a hundred and one.
 
 
-It’s Supposed to Be Fun to Work Here
+Part VI - It’s Supposed to Be Fun to Work Here
 ------------------------------------
 
 > Somewhere deep in our ancestral memory is buried the notion that work is supposed to be onerous. If you enjoy doing something, it isn’t really work. If you enjoy it enough, it’s probably sinful. You ought not to do it too much or even at all. You certainly shouldn’t be paid for it. What you really ought to do is find something else to work at, something that feels like work. Then you can be bored, tired, and generally miserable like everybody else.
