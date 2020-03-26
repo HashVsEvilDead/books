@@ -120,10 +120,13 @@ These questions have several good effects. First, an intelligent student cannot 
 Part II - How to solve it
 ---------------------------
 
+This section contains a brief dialogue in which the author go through the 4 phases and the related questions, again.
+The most important thing is to really understand the problem by looking at the principal parts (the unknown, the data and the condition) from as many different perspective as we can. Go through the principal parts of the problem, consider them one by one, consider them in turn, consider them in various combinations, relating each detail to other details and each to the whole of the problem.
 
 
 Part III - Short dictionary of heuristic
 ---------------------------
+
 
 
 
