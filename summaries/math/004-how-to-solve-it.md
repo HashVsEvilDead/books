@@ -15,7 +15,9 @@ George Pólya (December 13, 1887 – July 9th, 1985) was a Hungarian mathematici
 Introduction
 ============
 
-In this book, Pólya provides general heuristics for solving basically any kind of problems, including both mathematical and non-mathematical problems. The book includes advice for teaching students of mathematics and a mini-encyclopedia of heuristic terms. The author suggests the following steps when solving a problem:
+In this book, Pólya provides general heuristics for solving basically any kind of problems, including both mathematical and non-mathematical problems.
+A heuristic technique, or a heuristic, is any approach to problem solving or self-discovery that employs a practical method that is not guaranteed to be optimal, perfect or rational, but which is nevertheless sufficient for reaching an immediate, short-term goal. Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution. Heuristics can be mental shortcuts that ease the cognitive load of making a decision. Examples that employ heuristics include using trial and error, a rule of thumb or an educated guess.
+The book includes advice for teaching students of mathematics and a mini-encyclopedia of heuristic terms. The author suggests the following steps when solving a problem:
 - First, you have to understand the problem.
 - After understanding, make a plan.
 - Carry out the plan.
@@ -127,6 +129,78 @@ The most important thing is to really understand the problem by looking at the p
 Part III - Short dictionary of heuristic
 ---------------------------
 
+#### Analogy.
+Analogy is a sort of similarity. Similar objects agree with each other in some respect, **analogous objects** agree in certain **relations** of their respective parts.
+Analogy pervades all our thinking and we can consider ourselves lucky when, trying to solve a problem, we succeed in discovering a simpler analogous problem.
+We need to restate the properties of the 2 analogous problems so that they can will be valid for both of them.
+
+Example: Find the center of gravity of a homogeneous tetrahedron.
+Let's concentrate upon a simpler analogous problem: find the center of gravity of a homogeneous triangle, that is the common point of intersection of all three medians.
+Now we have a **model to follow**. Let's restate the triangle solution with something simpler to apply to the tetrahedron problem: the center of gravity of a homogeneous triangle coincides with the center of gravity of its three vertices. Knowing this, we may conjecture that the center of gravity of a homogeneous tetrahedron coincides with the center of gravity of its four vertices.
+This conjecture is an **inference by analogy**. Knowing that the triangle and the tetrahedron are alike in many respects, we conjecture that they are alike in one more respect. It would be foolish to regard the plausibility of such conjectures as certainty, but it would be just as foolish, or even more foolish, to disregard such plausible conjectures. The feeling that harmonious simple order cannot be deceitful guides the discoverer both in the mathematical and in the other sciences, and is expressed by the Latin saying: **simplex sigillum veri** (simplicity is the seal of truth).
+
+#### Auxiliary elements.
+Often, it can be helpful to add new elements to those originally considered. There are various kinds of auxiliary elements. Solving a geometric problem, we may introduce new lines into our figure, auxiliary lines. There are various reasons for introducing auxiliary elements. We are glad when we have succeeded in recollecting a problem related to ours and solved before. It is probable that we can use such a problem but we do not know yet how to use it. For instance, the problem which we are trying to solve is a geometric problem, and the related problem which we have solved before and have now succeeded in recollecting is a problem about triangles. Yet there is no triangle in our figure; in order to make any use of the problem recollected we must have a triangle; therefore, we have to introduce one, by adding suitable auxiliary lines to our figure. In general, having recollected a formerly solved related problem and wishing to use it for our present one, we must often ask: Should we introduce some auxiliary element in order to make its use possible?
+
+#### Auxiliary problems.
+Are problems which we consider, not for their own sake, but because we hope that their consideration may help us to solve another problem, our original problem.
+Example: to solve _x^4 − 13x^2 + 36 = 0_ we could introduce _y = x^2_ so that the equation now becomes _y^2 − 13y + 36 = 0_.
+In this case, we are using the solution of an auxiliary problem. In other cases, we may use the method of the auxiliary problem (tetrahedron example).
+
+#### Can you check the result? Can you check the arguments?
+A good answer to these questions strengthens our trust in the solution and contributes to the solidity of our knowledge.
+Example: let's consider the frustum of a pyramid with square base. If the side of the lower base is a, the side of the upper base b, and the altitude of the frustum h, we find for the volume _V=(a^2+ab+b^2)/3*h_. We may test this result by **SPECIALIZATION**. In fact, if b = a the frustum becomes a prism and the formula yields _a^2*h_; and if b = 0 the frustum becomes a pyramid and the formula yields _a^2*h/3_. We may apply the *TEST BY DIMENSION*. In fact, the expression has as dimension the cube of a length. Again, we may test the formula by variation of the data. In fact, if any one of the positive quantities a, b or h increases the value of the expression increases. Tests of this sort can be applied not only to the final result but also to intermediate results and they are very useful.
+
+#### Can you derive the result differently?
+When the solution that we have finally obtained is long and involved, we naturally suspect that there is some clearer and less roundabout solution and we may still be interested in finding it. Therefore, we study the result, trying to understand it better, to see some new aspect of it. We may succeed first in observing a new interpretation of a certain small part of the result. Then, we may be lucky enough to discover some new mode of conceiving some other part. Examining the various parts, one after the other, and trying various ways of considering them, we may be led finally to see the whole result in a different light, and our new conception of the result may suggest a new proof.
+
+#### Can you use the result?
+Can you use the result, or the method, for some other problem? To find a new problem which is both interesting and accessible, is not so easy; we need experience, taste, and good luck. Yet we should not fail to look around for more good problems because, like some mushrooms, they tend to grow in clusters. Having found one, you should look around; there is a good chance that there are some more quite near. We can easily imagine new problems if we are somewhat familiar with the principal means of varying a problem, as GENERALIZATION, SPECIALIZATION, ANALOGY, DECOMPOSING AND RECOMBINING. A common method is to **regard the original unknown as given and one of the original data as unknown**.
+
+#### Carrying out.
+To conceive a plan and to carry it through are two different things. When devising the plan of the solution, we should not be too afraid of merely plausible, heuristic reasoning but, then, we should check each step while carrying out the plan. The more we check our steps when carrying out the plan, the more freely we may use heuristic reasoning when devising it. It is not reasonable to check minor details before we have good reasons to believe that the major steps of the argument are sound.
+
+#### Could you derive something useful from the data?
+To solve a problem we often start from the unknown but also starting from the data has chances of success.
+
+#### Could you restate the problem?
+Could you restate it still differently? These questions aim at suitable VARIATION OF THE PROBLEM. Go back to definitions.
+
+#### Decomposing and recombining.
+To solve a problem we need to understand it as a whole. Having understood the problem, we shall be in a better position to judge which particular details may be the most essential. Having examined one or two essential details, we shall be in a better position to judge which further details might deserve closer examination. In almost all cases it is advisable to start the detailed examination of the problem with the questions: **What is the unknown? What are the data? What is the condition?**
+When the problem is difficult, we decompose its details and we try to recombine them in some new manner in order to obtain an **auxiliary problem**. There are unlimited possibilities of recombination but there are a few that are often helpful, especially for simpler problems:
+**1. keep the unknown and change the rest (the data and the condition)**
+Keeping the unknown basically means following the suggestions _LOOK_ _AT_ _THE_ _UNKNOWN_ and _try_ _to_ _think_ _of_ _a_ _familiar_ _problem_ _having_ _the_ _same_ _or_ _a_ _similar_ _unknown_. Usually it's better to drop part of the condition, in order to have a simpler problem, rather than adding more conditions or data.
+**2. keep the data and change the rest (the unknown and the condition)**
+_COULD_ _YOU_ _DERIVE_ _SOMETHING_ _USEFUL_ _FROM_ _THE_ _DATA_? We should keep the data and find an easier unknown that could serve as a **stepping stone**.
+**3. change both the unknown and the data**
+This is less desirable as we deviate more from our original course. An interesting way of changing both the unknown and the data is interchanging the unknown with one of the data.
+
+#### Examine your guess.
+Your guess may be right, but it is foolish to accept it or disregard it without examining it. Guesses of a certain kind deserve to be examined and taken seriously: those which occur to us after we have attentively considered and really understood a problem in which we are genuinely interested. Such guesses usually contain at least a fragment of the truth although, of course, they very seldom show the whole truth. Many a guess has turned out to be wrong but nevertheless useful in leading to a better one.
+Example: of all quadrilaterals with given perimeter, find the one that has the greatest area. We know that of all figures with the same perimeter the circle has the greatest area, so we can guess that the square should have the greatest area because is the more similar to the circle. Now, can we prove it? It's hard to prove it so, can we solve a part of the problem? Maybe we can prove that the square has the greatest area among rectangles. Proving that would not solv our problem yet, but we would make some progress just by facing squarely our rather obvious guesses.
+
+#### Generalization.
+Generalization is passing from the consideration of one object to the consideration of a set containing that object; or passing from the consideration of a restricted set to that of a more comprehensive set containing the restricted one. Sometimes generalizing a problem can simplify it because we can focus on the property of the object that really matters and ignore the others that are not relevant to the solution of the problem.
+
+#### Heuristic reasoning.
+Heuristic is reasoning not regarded as final and strict but as provisional and plausible only, whose purpose is to discover the solution of the present problem with a more or less plausible guess. We may need the provisional before we attain the final. Heuristic reasoning is often based on induction, or on analogy. Heuristic reasoning is good in itself. What is bad is to mix up heuristic reasoning with rigorous proof. What is worse is to sell heuristic reasoning for rigorous proof.
+
+#### If you cannot solve the proposed problem.
+If you cannot solve the proposed problem do not let this failure afflict you too much but try to find consolation with some easier success, try to solve first some related problem; then you may find courage to attack your original problem again. Could you imagine a more accessible related problem? You should now invent a related problem, not merely remember one.
+
+#### Inventor’s paradox.
+The more ambitious plan may have more chances of success. This sounds paradoxical. Yet, when passing from one problem to another, we may often observe that the new, more ambitious problem is easier to handle than the original problem. More questions may be easier to answer than just one question. The more comprehensive theorem may be easier to prove, the more general problem may be easier to solve.
+
+#### Look at the unknown.
+Look at the end. Remember your aim. Do not forget your goal. Think of what you are desiring to obtain. Do not lose sight of what is required. Keep in mind what you are working for. Look at the unknown. Look at the conclusion. Try to think of a familiar problem having the same unknown. Let us compare this suggestion with that involved in the question: Do you know a related problem?
+The latter suggestion is more general than the former one. If a problem is related to another problem, the two have something in common; they may involve a few common objects or notions, or have some data in common, or some part of the condition, and so on. Our first suggestion insists on a particular common point: The two problems should have the same unknown.
+
+#### Modern heuristic.
+Try to understand the process of solving problems, especially the mental operations typically useful in this process. A serious study of heuristic should take into account both the logical and the psychological background.
+
+#### Notation.
+Speaking and thinking are closely connected, the use of words assists the mind. Certain philosophers and philologists went a little further and asserted that the use of words is indispensable to the use of reason. Yet this last assertion appears somewhat exaggerated. If we have a little experience of serious mathematical work we know that we can do a piece of pretty hard thinking without using any words. We could improve that assertion of philosophers and philologists by bringing the words into line with other sorts of signs and saying that the use of signs appears to be indispensable to the use of reason.
 
 
 
