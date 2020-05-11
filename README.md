@@ -7,6 +7,7 @@ A collection of book summaries
 
 ###Lifestyle
 * [Soft skills](summaries/lifestyle/001-soft-skills.md)
+* [The oxygen advantage](summaries/lifestyle/005-the-oxygen-advantage.md)
 
 ###Math
 * [How to solve it](summaries/math/004-how-to-solve-it.md)
