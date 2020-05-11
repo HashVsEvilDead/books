@@ -202,36 +202,30 @@ Try to understand the process of solving problems, especially the mental operati
 #### Notation.
 Speaking and thinking are closely connected, the use of words assists the mind. Certain philosophers and philologists went a little further and asserted that the use of words is indispensable to the use of reason. Yet this last assertion appears somewhat exaggerated. If we have a little experience of serious mathematical work we know that we can do a piece of pretty hard thinking without using any words. We could improve that assertion of philosophers and philologists by bringing the words into line with other sorts of signs and saying that the use of signs appears to be indispensable to the use of reason.
 
+#### Progress and achievement.
+In order to solve a problem, we must collect the relevant items of our existing but initially dormant knowledge, formerly solved problems, known theorems, definitions, if our problem is mathematical. Extracting such relevant elements from our memory may be termed **mobilization**.
+Then, we must combine these facts, and their combination must be well adapted to the problem at hand. This adapting and combining activity may be termed **organization**. Many of the previous questions and suggestions aim directly at the mobilization: Have you seen it before? Or have you seen the same problem in a slightly different form? Do you know a related problem? Do you know a theorem that could be useful? Look at the unknown! And try to think of a familiar problem having the same or a similar unknown. Questions for organization might be: Here is a problem related to yours and solved before. Could you use it? Could you use its result? Could you use its method? Should you introduce some auxiliary element in order to make its use possible?
+
+#### Reductio ad absurdum and indirect proof.
+Reductio ad absurdum shows the falsity of an assumption by deriving from it a manifest absurdity. Indirect proof establishes the truth of an assertion by showing the falsity of the opposite assumption. Naturally, we want to retain in our memory what we know to be true and correct and not false or absurd. That's why it seems difficult to retain results achieved with such techniques. Yet it would be foolish to repudiate such tools of discovery as they may present themselves naturally and bring a decision when all other means seem to be exhausted.
+
+#### Signs of progress.
+When we succeed in answering one of the questions listed in this bool, its success is felt as a sign of progress.
+How signs help:
+I have a plan. I see pretty clearly where I should begin and which steps I should take first. Yet I do not quite see the lay-out of the road farther on; I am not quite certain that my plan will work; and, in any case, I have still a long way to go. Therefore, I start out cautiously in the direction indicated by my plan and keep a lookout for signs of progress. If the signs are rare or indistinct, I may turn back and try another road. On the other hand, if the signs become more frequent as I proceed, if they multiply, I can move with increasing confidence in ther plan.
+
+#### Variation of the problem.
+When trying to solve a problem, we try various standpoints and we view the problem from different sides. Success in solving the problem depends on choosing the right aspect, on attacking the fortress from its accessible side. In order to find out which aspect is the right one, which side is accessible, we try various sides and aspects, we vary the problem. Looking from different perspective helps both mobilization of dormant knowledge and keeping the attention and focus high.
+
+#### Working backwards.
+Let us start from what is required and assume what is sought as already found. Let's say you have to solve the puzzle of getting 6 liters of waters using a 9-liters and a 4-liters cotainer. You could start by trials and errors or we can work backwards. Let's start with a container filled with 6 liters of water (assume what is sought as already found) and find how we could have got there.
 
 
 Part IV - Problems, hints, solutions
 ---------------------------
-
+This last part contains 20 problems. For each problem there's a hint in the form of a list of questions that we examined in the previous sections. In the end, there's the solution together with some questions that help you to look back at your work.
 
 
 Conclusion
 ==========
-Your conclusion should wrap up by reviewing the main points of the book and giving your opinion of the book. Did you like it? Was it enjoyable? Do you agree with the author’s ideas or ways of writing? Did you learn something you didn’t know before? Explain your reasons for your reaction, using examples to support your claims.
-
-Questions to ask myself:
-
-* Is the title accurate and fit the knowledge level of the material presented?
-* What level of experience is needed to effectively use the book?
-* What are the key strengths and weaknesses of the book?
-* Who will find the book most useful?
-* Is the book technically accurate?
-* How clearly is the material presented?
-* Are the tables, figures / illustrations appropriate and well executed?
-* Is the depth appropriate for the stated audience?
-* Is the material new or present a different approach, or is it a rehash of existing texts?
-
-Imagine your conclusion as a way of telling others whether they should read the book or not. Would they enjoy it? Should they read it? Why or why not?
-
-
-
-Bibliography and Resources
-==========================
-* List the books that the author recommends or mentions
-* Don't bother copying entire References/Literature section from the book
-* Link code examples or repositories
-* Blogs, websites, apps
+I found this book very useful because it helps you to get going when you are stuck in solving a problem. It helps you to remain on track. I found particularly helpful the suggestion to look back at your work after you've finished solving a problem. I feel like I've missed plenty of learning opportunities by skipping that part in the past.
