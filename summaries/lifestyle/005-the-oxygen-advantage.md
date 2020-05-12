@@ -1,49 +1,55 @@
-Book Title
+The Oxygen Advantage
 ==========
-Book Subtitle
+The Simple, Scientifically Proven Breathing Techniques for a Healthier, Slimmer, Faster, and Fitter You
 -------------
 
-Author • Date Of Publication • Number of pages
+Patrick McKeown • 2015 • 360 pages
 
-[Goodreads](https://www.goodreads.com/)
+[Goodreads](https://www.goodreads.com/book/show/26533127-the-oxygen-advantage)
 
 Author
 ------------
-What they are known for? Outstanding achievements that should be mentioned?
-What is their expertise in writing this book?
+World-renowned author and breathing practitioner Patrick McKeown was educated at Trinity College in Dublin, before completing his clinical training in the Buteyko Breathing Method at the Buteyko Clinic, Moscow, Russia. In a career spanning 15 years, Patrick has since also become a bestselling author and expert on the topic of optimal breathing for improved health, well being and fitness. Patrick was recently made a Fellow of the Royal Society of Biology in the UK for his contribution to our understanding of breathing. When he is not working from his home in the West of Ireland, Patrick travels extensively in Europe, the USA and Australia teaching and training athletes and coaches in The Oxygen Advantage® Program. He delivers workshops and speaks at conferences worldwide.
 
 
 Introduction
 ============
 
-The reasons I have read the book.
-
-Summarize the author’s main idea or purpose for writing the book. State what you think their thesis is.
-
-Additional info (was it a best seller? Did it win any awards?)
-
+A simple yet revolutionary approach to improving your body's oxygen use, increasing your health, weight loss, and sports performance. One of the biggest obstacles to better health and fitness is a rarely identified problem: chronic over-breathing. We often take many more breaths than we need (without realizing it) contributing to poor health and fitness, including a host of disorders, from anxiety and asthma to insomnia and heart problems.
+In The Oxygen Advantage, the man who has trained over 5,000 people (including Olympic and professional athletes) in reduced breathing exercises now shares his techniques to help you breathe more efficiently. Patrick McKeown teaches you the fundamental relationship between oxygen and the body, then gets you started with a Body Oxygen Level Test (BOLT) to determine how efficiently your body uses oxygen. He then shows you how to increase your BOLT score by using light breathing exercises and learning how to simulate high altitude training, a technique used by Navy SEALs and professional athletes to help increase endurance, weight loss, and vital red blood cells to dramatically improve cardio-fitness.
 
 
 Summary
 =======
-Organize the paragraphs by theme. If there are sections in the book, use them as subheaders.
 
-Cover most interesting areas of the book. Try to summarize a chapter in a few paragraphs as possible.
+Part I: The Secret of Breath
+---------------------------
 
-> Use quotes sparingly, don't quote entire pages from the book
+Part 1 summary
 
-For every chapter try to answer
 
-* what was it about?
-* how well does the chapter title describe the overall message of the chapter?
-* was the information clearly presented?
-* were there actionable items (like "do something before continuing to read" or "for next week, do X") or exercises required?
+Part II: The Secret of Fitness
+---------------------------
 
+Part 2 summary
+
+
+Part III: The Secret of Health
+---------------------------
+
+Part 3 summary
+
+
+Part IV: Your Oxygen Advantage Program
+---------------------------
+
+Part 4 summary
 
 
 Conclusion
 ==========
-Your conclusion should wrap up by reviewing the main points of the book and giving your opinion of the book. Did you like it? Was it enjoyable? Do you agree with the author’s ideas or ways of writing? Did you learn something you didn’t know before? Explain your reasons for your reaction, using examples to support your claims.
+
+Your conclusion should wrap up by reviewing the main points of the book and giving your opinion of the book. Did you like it? Was it enjoyable? Do you agree with the author's ideas or ways of writing? Did you learn something you didn't know before? Explain your reasons for your reaction, using examples to support your claims.
 
 Questions to ask myself:
 
