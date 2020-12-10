@@ -17,21 +17,16 @@ Introduction
 ============
 
 The reasons I have read the book.
-
 Summarize the author’s main idea or purpose for writing the book. State what you think their thesis is.
-
 Additional info (was it a best seller? Did it win any awards?)
-
 
 
 Summary
 =======
+
 Organize the paragraphs by theme. If there are sections in the book, use them as subheaders.
-
 Cover most interesting areas of the book. Try to summarize a chapter in a few paragraphs as possible.
-
 > Use quotes sparingly, don't quote entire pages from the book
-
 For every chapter try to answer
 
 * what was it about?
@@ -40,9 +35,9 @@ For every chapter try to answer
 * were there actionable items (like "do something before continuing to read" or "for next week, do X") or exercises required?
 
 
-
 Conclusion
 ==========
+
 Your conclusion should wrap up by reviewing the main points of the book and giving your opinion of the book. Did you like it? Was it enjoyable? Do you agree with the author’s ideas or ways of writing? Did you learn something you didn’t know before? Explain your reasons for your reaction, using examples to support your claims.
 
 Questions to ask myself:

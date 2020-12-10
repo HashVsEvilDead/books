@@ -34,7 +34,6 @@ Or
 Summary
 =======
 
-
 Part I - In the classroom
 ---------------------------
 There 4 phases when trying to solve a problem and each one of them has a set of questions that can help you in finding a solution. First, we have to understand the problem; we have to see clearly what is required. Second, we have to see how the various items are connected, how the unknown is linked to the data, in order to obtain the idea of the solution, to make a plan. Third, we carry out our plan. Fourth, we look back at the completed solution, we review and discuss it.
@@ -228,4 +227,5 @@ This last part contains 20 problems. For each problem there's a hint in the form
 
 Conclusion
 ==========
+
 I found this book very useful because it helps you to get going when you are stuck in solving a problem. It helps you to remain on track. I found particularly helpful the suggestion to look back at your work after you've finished solving a problem. I feel like I've missed plenty of learning opportunities by skipping that part in the past.

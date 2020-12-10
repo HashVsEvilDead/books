@@ -16,6 +16,7 @@ About the Authors
 
 Both authors are principals of Atlantic Systems Guild, a consulting company specialized in methods and management of software development. They've been lecturing, consulting and writing on management, estimating, productivity and corporate culture since 1979.
 
+
 Introduction
 ============
 
@@ -35,7 +36,6 @@ The main goal of the book seems to be to shine light on team dynamics and help s
 
 Summary
 =======
-
 
 Part I - Managing the Human Resource
 ---------------------------
