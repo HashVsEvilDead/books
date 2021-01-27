@@ -1,13 +1,13 @@
 A collection of book summaries
 =================================
 
-###Workplace
+### Workplace
 * [Peopleware](summaries/workplace/003-peopleware.md)
 * [Mythical Man Month](summaries/workplace/002-mythical-man-month.md)
 
-###Lifestyle
+### Lifestyle
 * [Soft skills](summaries/lifestyle/001-soft-skills.md)
 * [The oxygen advantage](summaries/lifestyle/005-the-oxygen-advantage.md)
 
-###Math
+### Math
 * [How to solve it](summaries/math/004-how-to-solve-it.md)
